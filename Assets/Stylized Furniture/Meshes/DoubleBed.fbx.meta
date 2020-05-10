@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: f6ab50a7829dfb449a0d3ca8eb1bc08f
+timeCreated: 1471966731
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: D.BedBlanket
+    100002: D.BedBoards
+    100004: D.BedLegs
+    100006: D.BedPillows
+    100008: D.BedSideBoards
+    100010: //RootNode
+    100012: DBedBlanket
+    100014: DBedBoards
+    100016: DBedLegs
+    100018: DBedPillows
+    100020: DBedSideBoards
+    400000: D.BedBlanket
+    400002: D.BedBoards
+    400004: D.BedLegs
+    400006: D.BedPillows
+    400008: D.BedSideBoards
+    400010: //RootNode
+    400012: DBedBlanket
+    400014: DBedBoards
+    400016: DBedLegs
+    400018: DBedPillows
+    400020: DBedSideBoards
+    2300000: D.BedBlanket
+    2300002: D.BedBoards
+    2300004: D.BedLegs
+    2300006: D.BedPillows
+    2300008: D.BedSideBoards
+    2300010: DBedBlanket
+    2300012: DBedBoards
+    2300014: DBedLegs
+    2300016: DBedPillows
+    2300018: DBedSideBoards
+    3300000: D.BedBlanket
+    3300002: D.BedBoards
+    3300004: D.BedLegs
+    3300006: D.BedPillows
+    3300008: D.BedSideBoards
+    3300010: DBedBlanket
+    3300012: DBedBoards
+    3300014: DBedLegs
+    3300016: DBedPillows
+    3300018: DBedSideBoards
+    4300000: D.BedPillows
+    4300002: D.BedLegs
+    4300004: D.BedBlanket
+    4300006: D.BedBoards
+    4300008: D.BedSideBoards
+    4300010: DBedPillows
+    4300012: DBedLegs
+    4300014: DBedBlanket
+    4300016: DBedBoards
+    4300018: DBedSideBoards
+    6400000: D.BedBlanket
+    6400002: D.BedBoards
+    6400004: D.BedLegs
+    6400006: D.BedPillows
+    6400008: D.BedSideBoards
+    6400010: DBedBlanket
+    6400012: DBedBoards
+    6400014: DBedLegs
+    6400016: DBedPillows
+    6400018: DBedSideBoards
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

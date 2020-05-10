@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 3b5a423ad3222c742aa524b5352bcafd
+timeCreated: 1503210718
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ClockFrame
+    100002: ClockHourHandle
+    100004: ClockMinuteHandle
+    100006: ClockScreen
+    100008: //RootNode
+    100010: WallClockFrame
+    100012: WallClockHourHandle
+    100014: WallClockMinuteHandle
+    100016: WallClockScreen
+    400000: ClockFrame
+    400002: ClockHourHandle
+    400004: ClockMinuteHandle
+    400006: ClockScreen
+    400008: //RootNode
+    400010: WallClockFrame
+    400012: WallClockHourHandle
+    400014: WallClockMinuteHandle
+    400016: WallClockScreen
+    2300000: ClockFrame
+    2300002: ClockHourHandle
+    2300004: ClockMinuteHandle
+    2300006: ClockScreen
+    2300008: //RootNode
+    2300010: WallClockFrame
+    2300012: WallClockHourHandle
+    2300014: WallClockMinuteHandle
+    2300016: WallClockScreen
+    3300000: ClockFrame
+    3300002: ClockHourHandle
+    3300004: ClockMinuteHandle
+    3300006: ClockScreen
+    3300008: //RootNode
+    3300010: WallClockFrame
+    3300012: WallClockHourHandle
+    3300014: WallClockMinuteHandle
+    3300016: WallClockScreen
+    4300000: WallClock
+    4300002: ClockHourHandle
+    4300004: ClockScreen
+    4300006: ClockFrame
+    4300008: ClockMinuteHandle
+    4300010: WallClockHourHandle
+    4300012: WallClockScreen
+    4300014: WallClockFrame
+    4300016: WallClockMinuteHandle
+    6400000: ClockFrame
+    6400002: ClockHourHandle
+    6400004: ClockMinuteHandle
+    6400006: ClockScreen
+    6400008: WallClockFrame
+    6400010: WallClockHourHandle
+    6400012: WallClockMinuteHandle
+    6400014: WallClockScreen
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 89860891083dce5478573388ccac2f2f
+timeCreated: 1503210720
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: TubeTVBody
+    100002: TubeTVBottom
+    100004: TubeTVButtons
+    100006: TubeTVControlpanel
+    100008: TubeTVPowerbuttons
+    100010: TubeTVRoundbuttons
+    100012: TubeTVScreen
+    100014: //RootNode
+    100016: TubeTVBackBody
+    400000: TubeTVBody
+    400002: TubeTVBottom
+    400004: TubeTVButtons
+    400006: TubeTVControlpanel
+    400008: TubeTVPowerbuttons
+    400010: TubeTVRoundbuttons
+    400012: TubeTVScreen
+    400014: //RootNode
+    400016: TubeTVBackBody
+    2300000: TubeTVBody
+    2300002: TubeTVBottom
+    2300004: TubeTVButtons
+    2300006: TubeTVControlpanel
+    2300008: TubeTVPowerbuttons
+    2300010: TubeTVRoundbuttons
+    2300012: TubeTVScreen
+    2300014: //RootNode
+    2300016: TubeTVBackBody
+    3300000: TubeTVBody
+    3300002: TubeTVBottom
+    3300004: TubeTVButtons
+    3300006: TubeTVControlpanel
+    3300008: TubeTVPowerbuttons
+    3300010: TubeTVRoundbuttons
+    3300012: TubeTVScreen
+    3300014: //RootNode
+    3300016: TubeTVBackBody
+    4300000: VacuumtubeTV
+    4300002: TubeTVPowerbuttons
+    4300004: TubeTVControlpanel
+    4300006: TubeTVScreen
+    4300008: TubeTVBottom
+    4300010: TubeTVRoundbuttons
+    4300012: TubeTVButtons
+    4300014: TubeTVBody
+    4300016: TubeTVBackBody
+    6400000: TubeTVBackBody
+    6400002: TubeTVBody
+    6400004: TubeTVBottom
+    6400006: TubeTVButtons
+    6400008: TubeTVControlpanel
+    6400010: TubeTVPowerbuttons
+    6400012: TubeTVRoundbuttons
+    6400014: TubeTVScreen
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

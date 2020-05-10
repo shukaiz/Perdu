@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: ccacc766a49779848b007006d8fa48b8
+timeCreated: 1471967932
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RockingChairArmrests
+    100004: RockingChairBack
+    100006: RockingChairBackBars
+    100008: RockingChairBars
+    100010: RockingChairSeat
+    100012: RockingChairsLegs
+    100014: RockingChairsRockers
+    400000: //RootNode
+    400002: RockingChairArmrests
+    400004: RockingChairBack
+    400006: RockingChairBackBars
+    400008: RockingChairBars
+    400010: RockingChairSeat
+    400012: RockingChairsLegs
+    400014: RockingChairsRockers
+    2300000: RockingChairArmrests
+    2300002: RockingChairBack
+    2300004: RockingChairBackBars
+    2300006: RockingChairBars
+    2300008: RockingChairSeat
+    2300010: RockingChairsLegs
+    2300012: RockingChairsRockers
+    3300000: RockingChairArmrests
+    3300002: RockingChairBack
+    3300004: RockingChairBackBars
+    3300006: RockingChairBars
+    3300008: RockingChairSeat
+    3300010: RockingChairsLegs
+    3300012: RockingChairsRockers
+    4300000: RockingChairsRockers
+    4300002: RockingChairBars
+    4300004: RockingChairArmrests
+    4300006: RockingChairBack
+    4300008: RockingChairBackBars
+    4300010: RockingChairsLegs
+    4300012: RockingChairSeat
+    6400000: RockingChairArmrests
+    6400002: RockingChairBack
+    6400004: RockingChairBackBars
+    6400006: RockingChairBars
+    6400008: RockingChairSeat
+    6400010: RockingChairsLegs
+    6400012: RockingChairsRockers
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

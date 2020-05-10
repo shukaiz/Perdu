@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: eb549f2fa099ef546a6b6d598e44cdf1
+timeCreated: 1471968345
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LongcaseClockBottom
+    100004: LongcaseClockHandle
+    100006: LongcaseClockHourhand
+    100008: LongcaseClockMinutehand
+    100010: LongcaseClockTable
+    100012: LongcaseClockTop
+    100014: LongcaseClockTrunk
+    400000: //RootNode
+    400002: LongcaseClockBottom
+    400004: LongcaseClockHandle
+    400006: LongcaseClockHourhand
+    400008: LongcaseClockMinutehand
+    400010: LongcaseClockTable
+    400012: LongcaseClockTop
+    400014: LongcaseClockTrunk
+    2300000: LongcaseClockBottom
+    2300002: LongcaseClockHandle
+    2300004: LongcaseClockHourhand
+    2300006: LongcaseClockMinutehand
+    2300008: LongcaseClockTable
+    2300010: LongcaseClockTop
+    2300012: LongcaseClockTrunk
+    3300000: LongcaseClockBottom
+    3300002: LongcaseClockHandle
+    3300004: LongcaseClockHourhand
+    3300006: LongcaseClockMinutehand
+    3300008: LongcaseClockTable
+    3300010: LongcaseClockTop
+    3300012: LongcaseClockTrunk
+    4300000: LongcaseClockMinutehand
+    4300002: LongcaseClockHourhand
+    4300004: LongcaseClockTable
+    4300006: LongcaseClockHandle
+    4300008: LongcaseClockTop
+    4300010: LongcaseClockTrunk
+    4300012: LongcaseClockBottom
+    6400000: LongcaseClockBottom
+    6400002: LongcaseClockHandle
+    6400004: LongcaseClockHourhand
+    6400006: LongcaseClockMinutehand
+    6400008: LongcaseClockTable
+    6400010: LongcaseClockTop
+    6400012: LongcaseClockTrunk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

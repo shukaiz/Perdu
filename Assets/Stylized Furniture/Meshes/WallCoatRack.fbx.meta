@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 9ee6f95ad30a4d04bb96df2a9160ad1f
+timeCreated: 1503596643
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CoatrackBack
+    100002: CoatrackHangerA
+    100004: CoatrackHangerB
+    100006: CoatrackHangerC
+    100008: CoatrackSides
+    100010: CoatrackTop
+    100012: //RootNode
+    100014: CoatRackBack
+    100016: CoatRackHangerA
+    100018: CoatRackHangerB
+    100020: CoatRackHangerC
+    100022: CoatRackSides
+    100024: CoatRackTop
+    100026: WallCoatRackBack
+    100028: WallCoatRackHangerA
+    100030: WallCoatRackHangerB
+    100032: WallCoatRackHangerC
+    100034: WallCoatRackSides
+    100036: WallCoatRackTop
+    400000: CoatrackBack
+    400002: CoatrackHangerA
+    400004: CoatrackHangerB
+    400006: CoatrackHangerC
+    400008: CoatrackSides
+    400010: CoatrackTop
+    400012: //RootNode
+    400014: CoatRackBack
+    400016: CoatRackHangerA
+    400018: CoatRackHangerB
+    400020: CoatRackHangerC
+    400022: CoatRackSides
+    400024: CoatRackTop
+    400026: WallCoatRackBack
+    400028: WallCoatRackHangerA
+    400030: WallCoatRackHangerB
+    400032: WallCoatRackHangerC
+    400034: WallCoatRackSides
+    400036: WallCoatRackTop
+    2300000: CoatrackBack
+    2300002: CoatrackHangerA
+    2300004: CoatrackHangerB
+    2300006: CoatrackHangerC
+    2300008: CoatrackSides
+    2300010: CoatrackTop
+    2300012: //RootNode
+    2300014: CoatRackBack
+    2300016: CoatRackHangerA
+    2300018: CoatRackHangerB
+    2300020: CoatRackHangerC
+    2300022: CoatRackSides
+    2300024: CoatRackTop
+    2300026: WallCoatRackBack
+    2300028: WallCoatRackHangerA
+    2300030: WallCoatRackHangerB
+    2300032: WallCoatRackHangerC
+    2300034: WallCoatRackSides
+    2300036: WallCoatRackTop
+    3300000: CoatrackBack
+    3300002: CoatrackHangerA
+    3300004: CoatrackHangerB
+    3300006: CoatrackHangerC
+    3300008: CoatrackSides
+    3300010: CoatrackTop
+    3300012: //RootNode
+    3300014: CoatRackBack
+    3300016: CoatRackHangerA
+    3300018: CoatRackHangerB
+    3300020: CoatRackHangerC
+    3300022: CoatRackSides
+    3300024: CoatRackTop
+    3300026: WallCoatRackBack
+    3300028: WallCoatRackHangerA
+    3300030: WallCoatRackHangerB
+    3300032: WallCoatRackHangerC
+    3300034: WallCoatRackSides
+    3300036: WallCoatRackTop
+    4300000: WallCoatrack
+    4300002: CoatrackHangerA
+    4300004: CoatrackHangerB
+    4300006: CoatrackHangerC
+    4300008: CoatrackBack
+    4300010: CoatrackSides
+    4300012: CoatrackTop
+    4300014: CoatRackHangerA
+    4300016: CoatRackHangerB
+    4300018: CoatRackHangerC
+    4300020: CoatRackBack
+    4300022: CoatRackSides
+    4300024: CoatRackTop
+    4300026: WallCoatRackHangerA
+    4300028: WallCoatRackHangerB
+    4300030: WallCoatRackHangerC
+    4300032: WallCoatRackBack
+    4300034: WallCoatRackSides
+    4300036: WallCoatRackTop
+    6400000: CoatrackBack
+    6400002: CoatrackHangerA
+    6400004: CoatrackHangerB
+    6400006: CoatrackHangerC
+    6400008: CoatrackSides
+    6400010: CoatrackTop
+    6400012: CoatRackBack
+    6400014: CoatRackHangerA
+    6400016: CoatRackHangerB
+    6400018: CoatRackHangerC
+    6400020: CoatRackSides
+    6400022: CoatRackTop
+    6400024: WallCoatRackBack
+    6400026: WallCoatRackHangerA
+    6400028: WallCoatRackHangerB
+    6400030: WallCoatRackHangerC
+    6400032: WallCoatRackSides
+    6400034: WallCoatRackTop
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

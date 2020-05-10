@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: fd48edb6767b2fb46b16a79de7cad43f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: backupLights
+    100002: bumper_b
+    100004: bumper_f
+    100006: //RootNode
+    100008: headLights
+    100010: indicatorLights_l
+    100012: indicatorLights_r
+    100014: interieur
+    100016: licensePlate_b
+    100018: lights
+    100020: mirror_l
+    100022: mirror_r
+    100024: steeringWheel
+    100026: tailLights
+    100028: wheel_b_l
+    100030: wheel_b_r
+    100032: wheel_f_l
+    100034: wheel_f_r
+    100036: windshieldWiper_l
+    100038: windshieldWiper_r
+    400000: backupLights
+    400002: bumper_b
+    400004: bumper_f
+    400006: //RootNode
+    400008: headLights
+    400010: indicatorLights_l
+    400012: indicatorLights_r
+    400014: interieur
+    400016: licensePlate_b
+    400018: lights
+    400020: mirror_l
+    400022: mirror_r
+    400024: steeringWheel
+    400026: tailLights
+    400028: wheel_b_l
+    400030: wheel_b_r
+    400032: wheel_f_l
+    400034: wheel_f_r
+    400036: windshieldWiper_l
+    400038: windshieldWiper_r
+    2100000: BluePaint
+    2100002: Windows
+    2100004: Black
+    2100006: Chrome
+    2100008: Metal
+    2100010: White Paint
+    2100012: Lights_white
+    2100014: Light_red
+    2100016: Light_orange
+    2300000: backupLights
+    2300002: bumper_b
+    2300004: bumper_f
+    2300006: //RootNode
+    2300008: headLights
+    2300010: indicatorLights_l
+    2300012: indicatorLights_r
+    2300014: interieur
+    2300016: licensePlate_b
+    2300018: lights
+    2300020: mirror_l
+    2300022: mirror_r
+    2300024: steeringWheel
+    2300026: tailLights
+    2300028: wheel_b_l
+    2300030: wheel_b_r
+    2300032: wheel_f_l
+    2300034: wheel_f_r
+    2300036: windshieldWiper_l
+    2300038: windshieldWiper_r
+    3300000: backupLights
+    3300002: bumper_b
+    3300004: bumper_f
+    3300006: //RootNode
+    3300008: headLights
+    3300010: indicatorLights_l
+    3300012: indicatorLights_r
+    3300014: interieur
+    3300016: licensePlate_b
+    3300018: lights
+    3300020: mirror_l
+    3300022: mirror_r
+    3300024: steeringWheel
+    3300026: tailLights
+    3300028: wheel_b_l
+    3300030: wheel_b_r
+    3300032: wheel_f_l
+    3300034: wheel_f_r
+    3300036: windshieldWiper_l
+    3300038: windshieldWiper_r
+    4300000: CityCar_05
+    4300002: wheel_b_l
+    4300004: wheel_f_l
+    4300006: wheel_b_r
+    4300008: wheel_f_r
+    4300010: lights
+    4300012: backupLights
+    4300014: tailLights
+    4300016: headLights
+    4300018: indicatorLights_l
+    4300020: indicatorLights_r
+    4300022: bumper_f
+    4300024: interieur
+    4300026: steeringWheel
+    4300028: mirror_r
+    4300030: bumper_b
+    4300032: licensePlate_b
+    4300034: mirror_l
+    4300036: windshieldWiper_r
+    4300038: windshieldWiper_l
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
